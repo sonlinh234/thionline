@@ -1,0 +1,36 @@
+.login-container{
+    width: 450px;
+    height: 350px;
+    /* background-image: linear-gradient(to right,#1abc9c,#1abc9c,#1abc9c); */
+    background: transparent;
+    border-radius: 5px;
+    position: relative;
+    top: 41%;
+    bottom: 50%;
+    transform: translateY(-35%);
+    margin: 0 auto;
+}
+
+.login-inner{
+    padding: 50px 30px;
+    border-radius: 5px;
+    /* background-color: rgba(155, 89, 182, .3); */
+    background-color: rgba(52, 152, 219, .6)
+}
+
+.lable{
+    color: aliceblue;
+    font-size: 15px;
+}
+
+.login-inner .email {
+    color: #fff;
+}
+
+.email-address label  {
+    color: #fff;
+}
+
+.password label  {
+    color: #fff;
+}

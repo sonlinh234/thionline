@@ -1,0 +1,19 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb://localhost:27017/oes"
+    },
+    "jwt": {
+        "secret" : "nguyenquanghiep20182505"
+    },
+    "mail-credentials" : {
+        "userid" :"cubepcp0001@gmail.com",
+        "password" : "Nolopxedap512@"
+    },
+    "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465
+    },
+    "mail-sender": {
+        "from": "'Hệ thống thi online'<phamtuanh2000@gmail.com>"
+    }
+}
